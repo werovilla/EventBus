@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "swoxSMM9yPvv8XmET5fYRXQ6sr2L/89DBwLwbuVChWTMImW3OXH1+nnTiLoIPWCZziys/glrmHBXcrjOMgbRVQ==",
+  "dgSpecHash": "Ps0ugxqMdzszaSpjVoo4sEQhdp3DpcJ+zG9+ZGvbl22IBE3/qreQB2pHtSAU9yzOLvLe6mUxxsh56EG1yi1eEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hector.roman\\RiderProjects\\EventBus\\EventBus\\EventBus.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,7 @@
     "C:\\Users\\hector.roman\\.nuget\\packages\\azure.messaging.servicebus\\7.7.0\\azure.messaging.servicebus.7.7.0.nupkg.sha512",
     "C:\\Users\\hector.roman\\.nuget\\packages\\microsoft.azure.amqp\\2.5.10\\microsoft.azure.amqp.2.5.10.nupkg.sha512",
     "C:\\Users\\hector.roman\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\hector.roman\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\hector.roman\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\hector.roman\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19269.1\\microsoft.data.sqlclient.1.0.19269.1.nupkg.sha512",
     "C:\\Users\\hector.roman\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "C:\\Users\\hector.roman\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.4\\microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",
