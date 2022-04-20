@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kiqBht8XQOpl3EDYbrmiTFJFii8T7KMhgf1gKTxUzk+x50OKKcTWWSBWYMH/xc47lUdvkSdhItc5Id8hCKdqBA==",
+  "dgSpecHash": "CEaTgrxQYeqUYiqfi1ug+fC/LEvEMw5XSyLAj8OeAzmViXQOHsXdS2B7N579pZEWHw7JBBQl3N5VDYckRvu3xQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\hector.roman\\RiderProjects\\EventBus\\EventBusHost\\EventBusHost.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hector.roman\\.nuget\\packages\\autofac\\4.9.4\\autofac.4.9.4.nupkg.sha512",
+    "C:\\Users\\hector.roman\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\hector.roman\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\hector.roman\\.nuget\\packages\\azure.core\\1.22.0\\azure.core.1.22.0.nupkg.sha512",
     "C:\\Users\\hector.roman\\.nuget\\packages\\azure.core.amqp\\1.2.0\\azure.core.amqp.1.2.0.nupkg.sha512",
     "C:\\Users\\hector.roman\\.nuget\\packages\\azure.messaging.servicebus\\7.7.0\\azure.messaging.servicebus.7.7.0.nupkg.sha512",
