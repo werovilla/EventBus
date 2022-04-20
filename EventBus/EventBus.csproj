@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.7.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.4" />
+      <PackageReference Include="xunit" Version="2.4.1" />
+        <PackageReference Include="Autofac" Version="4.9.4" />
+        <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+        <PackageReference Include="Polly" Version="7.2.0" />
+        <PackageReference Include="RabbitMQ.Client" Version="6.0.0-rc1" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.0" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="IntegrationEventLogEF\obj\**" />
+      <Compile Remove="EventBus\obj\**" />
+      <Compile Remove="EventBusRabbitMQ\obj\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="IntegrationEventLogEF\obj\**" />
+      <EmbeddedResource Remove="EventBus\obj\**" />
+      <EmbeddedResource Remove="EventBusRabbitMQ\obj\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="IntegrationEventLogEF\obj\**" />
+      <None Remove="EventBus\obj\**" />
+      <None Remove="EventBusRabbitMQ\obj\**" />
+    </ItemGroup>
+
+</Project>
